@@ -1,2 +1,8 @@
-# curso_devsuperior
-Arquivos referentes ao curso
+# Cronograma de estudos
+
+
+|  Segunda  |  Terça  |  Quarta  |  Quinta  | Sexta  | Sábado  |
+| --------- | ------------------- | --------- | --------- | --------- | --------- |
+|  19:30 - 20:30 |  19:30 - 20:30 |  19:30 - 20:30 |  19:30 - 20:30 |  19:30 - 20:30 |  9:00 - 12:00 14:00 - 18:00 |
+|  1h |  1h | 1h | 1h | 1h | 7h |
+
